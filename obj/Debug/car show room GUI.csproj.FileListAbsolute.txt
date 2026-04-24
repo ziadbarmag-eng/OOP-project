@@ -1,0 +1,11 @@
+C:\Users\kariZma\source\repos\Car show room GUI\bin\Debug\car show room GUI.exe.config
+C:\Users\kariZma\source\repos\Car show room GUI\bin\Debug\car show room GUI.exe
+C:\Users\kariZma\source\repos\Car show room GUI\bin\Debug\car show room GUI.pdb
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car show room GUI.csproj.AssemblyReference.cache
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car_show_room_GUI.Form1.resources
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car_show_room_GUI.Properties.Resources.resources
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car show room GUI.csproj.GenerateResource.cache
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car show room GUI.csproj.CoreCompileInputs.cache
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car show room GUI.exe
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car show room GUI.pdb
+C:\Users\kariZma\source\repos\Car show room GUI\obj\Debug\car show room GUI.exe.config
