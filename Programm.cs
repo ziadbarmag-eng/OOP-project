@@ -95,23 +95,6 @@ namespace CarShow_console_app
                 }
                 action = chooseAction();
             }
-
-            //Car c = new Car("Nissan", "sentra",7322);
-            //Car d = new Car("ford","Mustange",9200);
-            //Console.WriteLine("car c is as follows " + c.Make + " " + c.Model + " " + c.Price);
-            //Console.WriteLine("car d is as follows " + d.Make + " " + d.Model + " " + d.Price);
-            //Console.WriteLine();
-
-
-            //Store s = new Store();
-
-            //s.ShoppingList.Add(d);
-            //s.ShoppingList.Add(c);
-            //Console.WriteLine("the total price of the cars in the shopping cart is " + s.Checkout());
-
-
-
-            //Console.ReadLine();
         }
 
 
